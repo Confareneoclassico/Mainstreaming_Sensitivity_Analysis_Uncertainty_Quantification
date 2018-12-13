@@ -1,0 +1,17 @@
+chaospy
+IPython
+ipywidgets
+matplotlib==2
+mpl_toolkits.mplot3d
+numba
+numpy
+os 
+pandas
+re
+seaborn
+scipy
+sobol_seq
+statsmodels
+string
+sys
+xlwt
