@@ -1,7 +1,6 @@
 chaospy
 IPython
 ipywidgets
-math
 matplotlib==2
 mpl_toolkits
 numba
