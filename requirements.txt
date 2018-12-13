@@ -2,7 +2,6 @@ chaospy
 IPython
 ipywidgets
 matplotlib==2
-mpl_toolkits.mplot3d
 numba
 numpy
 os 
