@@ -1,5 +1,4 @@
 chaospy
-inspect
 IPython
 ipywidgets
 math
