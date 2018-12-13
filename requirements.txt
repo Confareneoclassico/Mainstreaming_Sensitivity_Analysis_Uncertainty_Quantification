@@ -9,4 +9,4 @@ seaborn
 scipy
 sobol_seq
 statsmodels
-xlwt
+xlrd==1.1.0
