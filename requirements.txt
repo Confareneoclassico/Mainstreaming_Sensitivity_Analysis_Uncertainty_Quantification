@@ -9,6 +9,5 @@ seaborn
 scipy
 sobol_seq
 statsmodels
-string
 sys
 xlwt
