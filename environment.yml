@@ -1,0 +1,23 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - pip:
+    - chaospy
+      IPython
+      ipywidgets
+      matplotlib==2
+      mpl_toolkits
+      numba
+      os 
+      re
+      seaborn
+      scipy
+      sobol_seq
+      statsmodels
+      string
+      sys
+      xlwt
