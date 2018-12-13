@@ -4,7 +4,6 @@ ipywidgets
 matplotlib==2
 numba
 numpy
-os 
 pandas
 re
 seaborn
