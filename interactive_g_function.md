@@ -57,6 +57,7 @@ if cmd_subfolder not in sys.path:
 
 %run python_source/matplotlib_header
 
+import matplotlib.pyplot as plt
 from present_output import print_vectors_relerror, print_3vectors_relerror
 ```
 

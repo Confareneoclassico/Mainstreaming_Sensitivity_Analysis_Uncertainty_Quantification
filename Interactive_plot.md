@@ -87,7 +87,7 @@ for ex in range(Expert.value):
     display(tab[ex])
 ```
 
-Set the dataframe for the final plot.
+**Continue from here if you have selected the file option**. Set the dataframe for the final plot.
 
 ```{.python .input}
 # Set data
